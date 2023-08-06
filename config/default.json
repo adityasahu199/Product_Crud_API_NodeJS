@@ -1,0 +1,12 @@
+{
+    "app": "products",
+    "port": "8080",
+    "mongodb": {
+        "host": "localhost",
+        "port": "27017",
+        "database": "products"
+    },
+    "security": {
+        "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjEyMzQ1NiJ9.gqTdtCgGoqr1ZIB-l_otn2rmO3wKot5LMBL9mBGLKJQ"
+    }
+}
